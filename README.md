@@ -1,5 +1,5 @@
 
-## 🦋 Server Engineer
+## 🧑🏻‍💻 Server Engineer
 
 - 공식 문서와 책을 통해서 학습하는 것을 좋아합니다. 
 - Spring, OOP를 확장할 수 있고, 직접 구현하는 것을 좋아합니다.
@@ -29,8 +29,5 @@
 <img src="https://img.shields.io/badge/AWS Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
-[![mjj111's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjj111)](https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true)
-<p></p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skatks101)](https://solved.ac/skatks101/)
+[![mjj111's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjj111)](https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true)                [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skatks101)](https://solved.ac/skatks101/)
 
