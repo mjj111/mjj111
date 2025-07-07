@@ -8,6 +8,7 @@
 - Trade-Off 사이에서 고민하며 토의하는 것을 좋아합니다.
 
 ## 🦏 Personal Experience
+ - 2025.07~ 현재 SSAFY (삼성 청년 소프트웨어 아카데미) 
  - 2021.03~ 2025.02 **국립부경대학교 컴퓨터공학부** 졸업 (데이터베이스 연구실 학부연구생)
  - 2024.12.30 국립부경대학교 / 정보융합대학 융합캡스톤디자인 경진대회 **대상**
  - 2024.11.27 국립부경대학교 / 컴퓨터공학부 캡스톤경진대회 **금상**
@@ -31,12 +32,16 @@
 
 <p>
 <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotest-7F2EDE?style=flat-square&logo=kotest&logoColor=white"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
 [![mjj111's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjj111)](https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true)                [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skatks101)](https://solved.ac/skatks101/)
